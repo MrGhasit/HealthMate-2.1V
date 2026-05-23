@@ -23,5 +23,7 @@ android.minapi = 21
 android.ndk = 25b
 android.arch = arm64-v8a
 android.accept_sdk_license = True
+android.sdk_path = /home/runner/.buildozer/android/platform/android-sdk
+android.ndk_path = /home/runner/.buildozer/android/platform/android-ndk-r25b
 
 p4a.branch = master
